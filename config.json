@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefalculate",
+        "uuid": 19932406,
+        "checksum": "tp2ip9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
